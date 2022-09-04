@@ -1,1 +1,1 @@
-# Javascript-learning
+# Javascript-learning by Examples
